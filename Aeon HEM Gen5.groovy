@@ -25,7 +25,7 @@ import groovy.transform.Field
 // metadata
 metadata {
   definition(name: "Aeon HEM Gen5", namespace: "hubitat-codahq", author: "Ben Rimmasch",
-    importUrl: "https://raw.githubusercontent.com/codahq/hubitat_codahq/master/devicestypes/aeotec-hem-gen5.groovy") {
+    https://raw.githubusercontent.com/SebastienViel/Aeotec-HEM/main/Aeon%20HEM%20Gen5") {
     capability "Energy Meter"
     capability "Power Meter"
     capability "Configuration"
